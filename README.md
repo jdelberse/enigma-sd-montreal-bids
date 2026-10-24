@@ -17,9 +17,8 @@ This dataset contains MRI data from a sleep manipulation study conducted at the 
 
 ## Sleep protocol
 
-- **SD**: total sleep deprivation, 36 h
-
-Participants were scanned under baseline and sleep manipulation conditions.
+- **BL**: baseline, habitual
+- **SD**: total sleep deprivation, 36h
 
 ## Imaging data
 
